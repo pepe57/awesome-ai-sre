@@ -45,6 +45,9 @@
 - [Wild Moose](https://www.wildmoose.ai) - AI first responder for production incidents that investigates and surfaces root cause in under one minute.
 - [Nudge Bee](https://nudgebee.com) - Enterprise AI-agentic workflow platform for SRE and CloudOps with pre-built AI assistants and customizable workflows.
 - [Agent SRE](https://agentsre.ai) - AI agent for autonomous site reliability engineering.
+- [Anyshift](https://anyshift.io) - AI SRE agent that investigates production incidents by tracing changes across a versioned infrastructure graph to identify root causes.
+- [Guardian by Metoro](https://metoro.io/ai-sre-agent) - AI SRE agent for Kubernetes that detects issues, finds the root cause, and opens fix PRs automatically.
+- [Hyground](https://hyground.ai) - A sovereign AI SRE agent built to operate complex software across your entire stack, automatically find root causes and cut DevOps toil.
 
 ## AI Production Debugging
 
@@ -80,6 +83,7 @@
 - [Last9](https://last9.io) - Unified observability with Agentic SRE SDK, AI copilot integration with Claude, Cursor, and Slack, and managed TSDB.
 - [SigNoz](https://signoz.io) - Open source OpenTelemetry-native observability platform for logs, metrics, and traces with unified correlation analysis.
 - [Middleware](https://middleware.io) - Full-stack observability platform that detects issues across APM, RUM, logs, and infrastructure, and resolves them using OpsAI, an AI SRE agent that pinpoints root cause and auto-fixes issues with 70% automated resolution rate.
+- [Metoro](https://metoro.io/) - Kubernetes native observability platform with built-in eBPF telemetry, AI investigation, deployment verification and root-cause analysis.
 
 ## AIOps Platforms
 
@@ -178,6 +182,8 @@
 - [incident.io Blog](https://incident.io/blog) - Practical SRE and AI tools content.
 - [Doctor Droid Notes](https://notes.drdroid.io) - AI-focused SRE engineering blog.
 - [NeuBird Blog](https://neubird.ai/blog) - GenAI SRE predictions and industry analysis.
+- [Metoro Blog](https://metoro.io/blog) - Observability, AI SRE and Kubernetes content.
+- [Hyground Blog](https://hyground.ai/blog) - AI SRE, observability, GenAI / security content.
 
 ## Community Lists
 
